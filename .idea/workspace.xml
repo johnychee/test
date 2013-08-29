@@ -5,6 +5,7 @@
     <ignored path="deploytest.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/deploy.rb" changelist="175a17dc-d3c2-46fc-a0bb-9546218bb998" time="1377813706164" ignored="false" />
+    <file path="/Gemfile" changelist="175a17dc-d3c2-46fc-a0bb-9546218bb998" time="1377814659075" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,10 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="deploy.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="deploy.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/deploy.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="29" selection-start="59" selection-end="59" vertical-scroll-proportion="0.06007067">
+            <state line="2" column="29" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="33" selection-start="293" selection-end="293" vertical-scroll-proportion="0.39045936">
               <folding />
             </state>
           </provider>
@@ -45,6 +55,7 @@
       <list>
         <option value="$PROJECT_DIR$/deploytest/Gemfile" />
         <option value="$PROJECT_DIR$/config/deploy.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -252,7 +263,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/config/deploy.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="29" selection-start="59" selection-end="59" vertical-scroll-proportion="0.06007067">
+        <state line="2" column="29" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="33" selection-start="293" selection-end="293" vertical-scroll-proportion="0.39045936">
           <folding />
         </state>
       </provider>
