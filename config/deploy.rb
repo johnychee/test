@@ -1,7 +1,7 @@
 require 'bundler/capistrano'
 
 set :application, "aesoft"
-set :repository, "git@github.com:johnychee/aesoft.git"
+set :repository, "git@github.com:johnychee/test.git"
 set :scm, "git"
 
 role :web, "server5.railshosting.cz"
