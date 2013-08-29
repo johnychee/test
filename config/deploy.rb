@@ -1,6 +1,6 @@
 require 'bundler/capistrano'
 
-set :application, "aesoft"
+set :application, "deploytest"
 set :repository, "git@github.com:johnychee/test.git"
 set :scm, "git"
 

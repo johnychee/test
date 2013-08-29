@@ -4,7 +4,7 @@
     <list default="true" id="175a17dc-d3c2-46fc-a0bb-9546218bb998" name="Default" comment="" />
     <ignored path="deploytest.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/deploy.rb" changelist="175a17dc-d3c2-46fc-a0bb-9546218bb998" time="1377812002822" ignored="false" />
+    <file path="/deploy.rb" changelist="175a17dc-d3c2-46fc-a0bb-9546218bb998" time="1377813706164" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +27,7 @@
       <file leaf-file-name="deploy.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/deploy.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="51" selection-start="108" selection-end="108" vertical-scroll-proportion="0.09010601">
+            <state line="2" column="29" selection-start="59" selection-end="59" vertical-scroll-proportion="0.06007067">
               <folding />
             </state>
           </provider>
@@ -167,7 +167,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="1" width="1364" height="726" extended-state="1" />
+    <frame x="1" y="1" width="1364" height="726" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -252,7 +252,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/config/deploy.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="51" selection-start="108" selection-end="108" vertical-scroll-proportion="0.09010601">
+        <state line="2" column="29" selection-start="59" selection-end="59" vertical-scroll-proportion="0.06007067">
           <folding />
         </state>
       </provider>
